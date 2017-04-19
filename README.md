@@ -1,4 +1,7 @@
-# test coverage for  [phantomjs-prebuilt (v2.1.14)](https://github.com/Medium/phantomjs)  [![npm package](https://img.shields.io/npm/v/npmtest-phantomjs-prebuilt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-phantomjs-prebuilt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-phantomjs-prebuilt.svg)](https://travis-ci.org/npmtest/node-npmtest-phantomjs-prebuilt)
+# npmtest-phantomjs-prebuilt
+
+#### test coverage for  [phantomjs-prebuilt (v2.1.14)](https://github.com/Medium/phantomjs)  [![npm package](https://img.shields.io/npm/v/npmtest-phantomjs-prebuilt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-phantomjs-prebuilt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-phantomjs-prebuilt.svg)](https://travis-ci.org/npmtest/node-npmtest-phantomjs-prebuilt)
+
 #### Headless WebKit with JS API
 
 [![NPM](https://nodei.co/npm/phantomjs-prebuilt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/phantomjs-prebuilt)
